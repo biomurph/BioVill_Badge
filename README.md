@@ -1,7 +1,7 @@
 # BioVill_Badge
 DEFCON Micro Fluidics Badge Design For Biohacking Village
 
-## Features Lifted From OpenDrop
+## Features Lifted From [OpenDrop](https://github.com/GaudiLabs/OpenDrop)V2
 * Arduino Micro
 * HV507 64 bit high voltage SIPO
 * OLED display 
