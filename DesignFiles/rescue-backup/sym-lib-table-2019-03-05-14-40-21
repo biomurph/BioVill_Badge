@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name ESP8266)(type Legacy)(uri ${KIPRJMOD}/Library/ESP8266.lib)(options "")(descr ""))
+  (lib (name GaudiLabsPartsLibrary)(type Legacy)(uri ${KIPRJMOD}/Library/GaudiLabsPartsLibrary.lib)(options "")(descr ""))
+)

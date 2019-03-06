@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name BHV_Badge)(type Legacy)(uri ${KIPRJMOD}/Library/BHV_Badge.lib)(options "")(descr ""))
+  (lib (name GaudiLabsPartsLibrary)(type Legacy)(uri ${KIPRJMOD}/Library/GaudiLabsPartsLibrary.lib)(options "")(descr ""))
+  (lib (name Solutions)(type Legacy)(uri ${KIPRJMOD}/Library/Solutions.lib)(options "")(descr ""))
+  (lib (name OpenDropV3)(type Legacy)(uri ${KIPRJMOD}/Library/OpenDropV3.lib)(options "")(descr ""))
+)

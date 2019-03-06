@@ -1,0 +1,6 @@
+*.bak
+*.net
+BHV_Badge-rescue.lib
+BHV_Badge-cache.lib
+BHV_Badge.kicad_pcb-bak
+*.txt

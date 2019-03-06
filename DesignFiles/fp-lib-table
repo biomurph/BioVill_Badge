@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name GaudiLabsFootPrints)(type KiCad)(uri ${KIPRJMOD}/Library/GaudiLabsFootPrints.pretty)(options "")(descr ""))
+  (lib (name GaudiLabsLogos)(type KiCad)(uri ${KIPRJMOD}/Library/GaudiLabsLogos.pretty)(options "")(descr ""))
+  (lib (name Solutions)(type KiCad)(uri ${KIPRJMOD}/Library/Solutions.pretty)(options "")(descr ""))
+)
